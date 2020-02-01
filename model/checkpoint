@@ -1,0 +1,2 @@
+model_checkpoint_path: "attention_model-500000"
+all_model_checkpoint_paths: "attention_model-500000"
